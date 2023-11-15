@@ -1,0 +1,16 @@
+U:\DS\POOatividade\POOatividade\bin\Debug\POOatividade.exe.config
+U:\DS\POOatividade\POOatividade\bin\Debug\POOatividade.exe
+U:\DS\POOatividade\POOatividade\bin\Debug\POOatividade.pdb
+U:\DS\POOatividade\POOatividade\obj\Debug\POOatividade.csprojResolveAssemblyReference.cache
+U:\DS\POOatividade\POOatividade\obj\Debug\POOatividade.MainForm.resources
+U:\DS\POOatividade\POOatividade\obj\Debug\POOatividade.csproj.GenerateResource.Cache
+U:\DS\POOatividade\POOatividade\obj\Debug\POOatividade.exe
+U:\DS\POOatividade\POOatividade\obj\Debug\POOatividade.pdb
+C:\Users\SUBWAY\Pictures\Etec\DS\POOatividade\POOatividade\bin\Debug\POOatividade.exe.config
+C:\Users\SUBWAY\Pictures\Etec\DS\POOatividade\POOatividade\bin\Debug\POOatividade.exe
+C:\Users\SUBWAY\Pictures\Etec\DS\POOatividade\POOatividade\bin\Debug\POOatividade.pdb
+C:\Users\SUBWAY\Pictures\Etec\DS\POOatividade\POOatividade\obj\Debug\POOatividade.csprojResolveAssemblyReference.cache
+C:\Users\SUBWAY\Pictures\Etec\DS\POOatividade\POOatividade\obj\Debug\POOatividade.MainForm.resources
+C:\Users\SUBWAY\Pictures\Etec\DS\POOatividade\POOatividade\obj\Debug\POOatividade.csproj.GenerateResource.Cache
+C:\Users\SUBWAY\Pictures\Etec\DS\POOatividade\POOatividade\obj\Debug\POOatividade.exe
+C:\Users\SUBWAY\Pictures\Etec\DS\POOatividade\POOatividade\obj\Debug\POOatividade.pdb
